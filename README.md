@@ -47,4 +47,4 @@ After this I put it all together
 
 ## ***Saving and testing results***
 I saved everything in **leaders_scraper.py** file and launched with **python leaders_scraper.py**.
-After several manipulations with Python and libraries on my PC I received NOT ideal, but result.
+After several manipulations with Python and libraries on my PC I received NOT ideal, but result, saved in leaders.json file.
